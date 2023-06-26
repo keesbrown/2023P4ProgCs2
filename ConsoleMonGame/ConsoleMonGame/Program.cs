@@ -6,6 +6,7 @@
         {
             TestArena();
             TestCopySkill();
+            TestCopyConsoleMon();
         }
 
         static void TestConsoleMonFunctions()
